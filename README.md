@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennylzx
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in data visualisation
+- 🌱 I’m currently learning Python, d3js
 - 💞️ I’m looking to collaborate on a useful and interesting project
 - 📫 You can reach me via jennylzx@outlook.com
 

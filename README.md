@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jennylzx
+- 👋 Hi, I’m @jenny
 - 👀 I’m interested in data visualisation
 - 🌱 I’m currently learning Python, d3js
 - 💞️ I’m looking to collaborate on a useful and interesting project
